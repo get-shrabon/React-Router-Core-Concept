@@ -1,0 +1,8 @@
+.user{
+    border: 1px solid tomato;
+    border-radius: 10px;
+    padding: 10px;
+}
+.user:nth-child(odd){
+    background-color: rgba(0, 0, 0, 0.351);
+}
